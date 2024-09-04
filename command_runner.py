@@ -14,8 +14,8 @@ developer_info = f"""
 {Fore.CYAN}---------------------------------------------------
 {Fore.MAGENTA} LARAVEL DEVELOPMENT SERVER MANAGER
 {Fore.CYAN}---------------------------------------------------
-{Fore.WHITE}Developed by: {Fore.GREEN}Adi Hasan Rifat
-{Fore.WHITE}Contact: {Fore.GREEN}adihasan@example.com
+{Fore.WHITE}Developed by: {Fore.GREEN}Adi Hasan
+{Fore.WHITE}Contact: {Fore.GREEN}adihasanrifat@gmail.com
 ---------------------------------------------------
 """
 
